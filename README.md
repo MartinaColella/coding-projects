@@ -17,4 +17,5 @@ This repository gathers the weekly projects I have done during the Bootcamp in D
    File of queries in SQL to analyse the database of movies including the following tables (movies, ratings, tags, genre, links). 
    A 'bug' was noticed: when connecting the table of ratings and tags, if one movie has more than 1 tag, in the rating table the same movie and the same rating is repeated for every tag. As a consequence the the number of ratings for each movie is not trustwhorthy when joined with the tags table. 
    
- 
+ **Project 5: Coding Challenge**
+ Sales and competitor analysis based on a real interview coding challenge - Using sales data to find business development opportunities. 
